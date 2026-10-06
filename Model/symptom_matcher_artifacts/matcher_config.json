@@ -1,0 +1,14 @@
+{
+  "sbert_model_name": "all-MiniLM-L6-v2",
+  "fuzzy_threshold": 0.6,
+  "tfidf_threshold": 0.2,
+  "sbert_threshold": 0.45,
+  "ensemble_threshold": 0.3,
+  "ensemble_weights": {
+    "fuzzy": 0.3,
+    "tfidf": 0.2,
+    "sbert": 0.5
+  },
+  "severity_bonus_scale": 0.01,
+  "num_canonical_symptoms": 132
+}

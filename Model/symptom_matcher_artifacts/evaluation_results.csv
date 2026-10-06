@@ -1,0 +1,5 @@
+Strategy,Hit@1,Hit@3,MRR
+Fuzzy (RapidFuzz),1.0,1.0,1.0
+TF-IDF Cosine,1.0,1.0,1.0
+SBERT Semantic,0.8939,0.9091,0.9015
+Ensemble,1.0,1.0,1.0
