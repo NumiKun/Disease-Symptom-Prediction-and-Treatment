@@ -1,0 +1,34 @@
+# ==============================================================================
+# Disease Symptom Prediction and Treatment
+# Project Dependencies (requirements.txt)
+# ==============================================================================
+
+# Core Data Science & Computation
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Machine Learning & Serialization
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# Natural Language Processing & Fuzzy Matching
+rapidfuzz>=3.0.0
+nltk>=3.8.1
+sentence-transformers>=2.2.2
+torch>=2.0.0
+transformers>=4.30.0
+
+# Similarity Search & Vector Indexing
+faiss-cpu>=1.7.4
+
+# Data Visualization & Reporting
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities & Progress Tracking
+tqdm>=4.65.0
+
+# Interactive Development & Notebook Environment
+ipykernel>=6.20.0
+notebook>=7.0.0
